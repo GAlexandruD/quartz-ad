@@ -4,6 +4,12 @@
 npx quartz sync
 ```
 
+## Start local server
+
+```sh
+npx quartz build --serve --directory /Users/ad/Dropbox/0_SecondBrain/_ONLINE_PUBLISHED
+```
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
