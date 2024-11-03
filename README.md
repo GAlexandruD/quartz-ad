@@ -1,6 +1,8 @@
 ## Update repository
 
+```sh
 npx quartz sync
+```
 
 # Quartz v4
 
